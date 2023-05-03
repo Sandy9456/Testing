@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application/>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>dl_u_hotellookups</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_913039_clients_h_dl_u_hotellookup</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_913039_clients_h.dl_u_hotellookup_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-27 10:21:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d8079fc02fe22110c58b58a72799b666</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dl_u_hotellookups</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Clients Hotel Booking Application" source="x_913039_clients_h">476c2e482f222110c58b58a72799b699</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Clients Hotel Booking Application">476c2e482f222110c58b58a72799b699</sys_scope>
+        <sys_update_name>sys_app_module_d8079fc02fe22110c58b58a72799b666</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-27 10:21:43</sys_updated_on>
+        <timeline_page/>
+        <title>dl_u_hotellookups</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

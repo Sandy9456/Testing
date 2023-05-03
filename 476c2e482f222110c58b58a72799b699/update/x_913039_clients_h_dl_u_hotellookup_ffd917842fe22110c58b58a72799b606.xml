@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_913039_clients_h_dl_u_hotellookup">
+    <x_913039_clients_h_dl_u_hotellookup action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <employee_department display_value="IT">221f79b7c6112284005d646b76ab978c</employee_department>
+        <employee_title>Director</employee_title>
+        <hotel_category>7- Star</hotel_category>
+        <order>100</order>
+        <sys_class_name>x_913039_clients_h_dl_u_hotellookup</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-27 10:34:46</sys_created_on>
+        <sys_id>ffd917842fe22110c58b58a72799b606</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="Clients Hotel Booking Application" source="x_913039_clients_h">476c2e482f222110c58b58a72799b699</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Clients Hotel Booking Application">476c2e482f222110c58b58a72799b699</sys_scope>
+        <sys_update_name>x_913039_clients_h_dl_u_hotellookup_ffd917842fe22110c58b58a72799b606</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-27 10:34:46</sys_updated_on>
+    </x_913039_clients_h_dl_u_hotellookup>
+</record_update>
